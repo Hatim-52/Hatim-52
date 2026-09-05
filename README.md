@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hatim 👋
 
-<!--
-**Hatim-52/Hatim-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | AI & RAG Enthusiast
 
-Here are some ideas to get you started:
+I build practical applications using Python, Retrieval-Augmented Generation,
+LLMs, and modern AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 🐍 Python development
+- 🧠 Generative AI & LLM applications
+- 📄 Document Intelligence
+- 🔎 Information Retrieval
+
+## 🛠️ Tech Stack
+
+Python • Streamlit • RAG • LLMs • OpenAI • Ollama •
+NumPy • Pandas • Git • GitHub 
+
+## 📌 Featured Projects
+
+### 📄 PDF Chat & Chunking Studio
+
+Interactive RAG experimentation platform for analyzing and comparing
+PDF text chunking strategies.
+
+## 📫 Connect
+
+https://www.linkedin.com/in/hatim-noor-260375249
